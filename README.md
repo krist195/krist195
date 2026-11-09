@@ -46,6 +46,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[Rob Run Radar](https://github.com/krist195/Rob-Run-Radar)** | Rob Run Game Radar | `Python` |
 | **[TextToVoiceAI](https://github.com/krist195/TextToVoiceAI)** | Text-to-speech application with voice cloning and WAV export. | `Python` `Flask` `XTTS-v2` |
 | **[Kiwi Widget](https://github.com/krist195/Kiwi-Widget)** | Desktop widget that displays animated GIFs in real time. | `Python` `Desktop` |
 | **[TelegramSMM](https://github.com/krist195/TelegramSMM)** | Telegram message automation utility. | `Python` `Telegram API` |
